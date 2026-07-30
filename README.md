@@ -2,10 +2,6 @@
 
 This repository contains a personal portfolio website for Ashish Pancheshwar, a Java Backend Developer and Computer Science Engineering student at VIT Bhopal University.
 
-## Live site
-The portfolio is deployed via GitHub Pages at:
-
-https://ashishpancheshwar1234.github.io/ashish-portfolio
 
 ## Contents
 - `index.html` — main portfolio page
